@@ -796,16 +796,25 @@ color: var(--color-footer-logo);
     margin-bottom: 16px;
 }
 .form-box {
-    padding: 24px;
+    display: flex;
+    flex-direction: column;
     
 }
 .form-field {
-    width: 100%;
-}
-.form-input {
+    margin-bottom: 8px;
     
 }
+.form-input {
+    width: 100%;
+    border-style: none;
+    border: 1px solid rgba(46, 47, 66, 0.4);
+    border-radius: 4px; 
+}
+.user-form-icon{
+   
+}
 .input-field {
+    
 }
 .form-comment {
 }
