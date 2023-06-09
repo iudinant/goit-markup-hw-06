@@ -798,11 +798,11 @@ color: var(--color-footer-logo);
 .form-box {
     display: flex;
     flex-direction: column;
-    
+    padding: 24px;
 }
 .form-field {
     margin-bottom: 8px;
-    
+    border-style: none;
 }
 .form-input {
     width: 100%;
