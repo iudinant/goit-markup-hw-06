@@ -886,6 +886,10 @@ color: var(--color-footer-logo);
     flex-direction: column;
 }
 
+.form-input{
+    position: relative;
+}
+
 .form-field {
     margin-bottom: 8px;
     border-style: none;
@@ -909,8 +913,7 @@ color: var(--color-footer-logo);
     transform: translateY(-50%);
     left: 16px;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    margin-bottom: 8px;    
-    margin-top: 8px;
+    
 }
 
 .input-field {
