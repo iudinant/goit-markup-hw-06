@@ -803,7 +803,6 @@ color: var(--color-footer-logo);
 
 .form-box{
     margin-bottom: 8px;
-
 }
 
 .is-hidden{
@@ -892,10 +891,6 @@ color: var(--color-footer-logo);
     border-style: none;
     position: relative;
     
-}
-
-.form-input {
-   
 }
 
 .user-info {
@@ -996,10 +991,6 @@ color: var(--color-footer-logo);
     display: flex;
     align-items: center;
     margin-bottom: 24px;
-}
-
-.checkbox-input {
-
 }
 
 .checkbox-label {
