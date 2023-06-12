@@ -802,7 +802,7 @@ color: var(--color-footer-logo);
 /* modal window */
 
 .form-box{
-    
+    margin-bottom: 8px;
 
 }
 
@@ -903,7 +903,7 @@ color: var(--color-footer-logo);
     margin-bottom: 4px;
     font-size: 12px;
     line-height: 1.17;
-  
+    font-size: 12px;
     letter-spacing: 0.04em;
     color: var(--color-customers-icon);
 }
