@@ -545,7 +545,7 @@ font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--color-footer-logo);
-    margin-bottom: 16px;
+    
 }
 .footer-soc-item {
     width: 40px;
